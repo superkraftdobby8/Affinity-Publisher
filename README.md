@@ -197,3 +197,6 @@ This repository serves as the official landing page for Affinity Publisher. The 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Affinity Publisher today!**
+
+---
+**Last updated:** 2026-11-09 22:53:31 UTC
