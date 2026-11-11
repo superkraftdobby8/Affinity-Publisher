@@ -199,4 +199,4 @@ This repository serves as the official landing page for Affinity Publisher. The 
 **Get the most recent version of Affinity Publisher today!**
 
 ---
-**Last updated:** 2026-11-11 01:04:15 UTC
+**Last updated:** 2026-11-11 08:56:25 UTC
